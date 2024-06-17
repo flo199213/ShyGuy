@@ -8,7 +8,7 @@ Device | Link
 ShyGuy: | <a href="https://cults3d.com/:XXX">https://cults3d.com/:XXX</a> 
 
  
-<img src="Images/ShyGuyDoor v44.png" height="500">
+<img src="Images/TitleImage.jpg" height="500">
 
 Releases:
 * V1.0 - Features:
